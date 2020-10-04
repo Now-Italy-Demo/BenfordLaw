@@ -116,7 +116,7 @@
             <form_field/>
             <height>300</height>
             <label>Belford's Law Scale</label>
-            <report display_value="Belford's Law Scale">98a0a55f2fa79010aa9eb6a62799b611</report>
+            <report display_value="Benford's Law Scale">98a0a55f2fa79010aa9eb6a62799b611</report>
             <report_field/>
             <report_qual/>
             <section caption="NULL" display_value="" name="x_134851_benford_analysis" sys_domain="global" view="Default view">897b099b2f679010aa9eb6a62799b642</section>

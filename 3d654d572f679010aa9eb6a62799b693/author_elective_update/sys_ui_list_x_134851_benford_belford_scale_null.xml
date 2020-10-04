@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_134851_benford_belford_scale" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>leading_digit</element>
+            <list_id display_value="x_134851_benford_belford_scale" element="NULL" name="x_134851_benford_belford_scale" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bddfd91f2fa79010aa9eb6a62799b61f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-04 16:08:21</sys_created_on>
+            <sys_id>7ddfd91f2fa79010aa9eb6a62799b620</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-04 16:08:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>probability</element>
+            <list_id display_value="x_134851_benford_belford_scale" element="NULL" name="x_134851_benford_belford_scale" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bddfd91f2fa79010aa9eb6a62799b61f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-04 16:08:21</sys_created_on>
+            <sys_id>f1dfd91f2fa79010aa9eb6a62799b621</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-04 16:08:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_134851_benford_belford_scale</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-04 16:08:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bddfd91f2fa79010aa9eb6a62799b61f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_134851_benford_belford_scale</sys_name>
+            <sys_package display_value="Benford's Law" source="x_134851_benford">3d654d572f679010aa9eb6a62799b693</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Benford's Law">3d654d572f679010aa9eb6a62799b693</sys_scope>
+            <sys_update_name>sys_ui_list_x_134851_benford_belford_scale_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-04 16:08:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Benford's Law">3d654d572f679010aa9eb6a62799b693</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_ui_list_x_134851_benford_belford_scale_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_134851_benford_belford_scale" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>leading_digit</element><list_id display_value="x_134851_benford_belford_scale" element="NULL" name="x_134851_benford_belford_scale" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bddfd91f2fa79010aa9eb6a62799b61f</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-04 16:08:21</sys_created_on><sys_id>7ddfd91f2fa79010aa9eb6a62799b620</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-04 16:08:21</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>probability</element><list_id display_value="x_134851_benford_belford_scale" element="NULL" name="x_134851_benford_belford_scale" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bddfd91f2fa79010aa9eb6a62799b61f</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-04 16:08:21</sys_created_on><sys_id>f1dfd91f2fa79010aa9eb6a62799b621</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-04 16:08:21</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_134851_benford_belford_scale</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-04 16:08:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bddfd91f2fa79010aa9eb6a62799b61f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_134851_benford_belford_scale</sys_name><sys_package display_value="Benford's Law" source="x_134851_benford">3d654d572f679010aa9eb6a62799b693</sys_package><sys_policy/><sys_scope display_value="Benford's Law">3d654d572f679010aa9eb6a62799b693</sys_scope><sys_update_name>sys_ui_list_x_134851_benford_belford_scale_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-04 16:08:21</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1852704354</payload_hash>
+        <record_name>Belford Scale</record_name>
+        <reverted_from/>
+        <source>bd654d572f679010aa9eb6a62799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-04 16:08:22</sys_created_on>
+        <sys_id>4edfd91f2fa79010aa9eb6a62799b622</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174f45f04fa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-04 16:08:22</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>0edfd91f11a79010124bb87c64c28122</update_guid>
+        <update_guid_history>0edfd91f11a79010124bb87c64c28122:1852704354</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-04 16:46:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>683c4747685b4b98ab17d76878e02440</sys_id>
+        <sys_metadata>bddfd91f2fa79010aa9eb6a62799b61f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_134851_benford_belford_scale</sys_name>
+        <sys_package display_value="Benford's Law" source="x_134851_benford">3d654d572f679010aa9eb6a62799b693</sys_package>
+        <sys_parent display_value="">e19f991f2fa79010aa9eb6a62799b63e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Benford's Law">3d654d572f679010aa9eb6a62799b693</sys_scope>
+        <sys_scope_delete display_value="">03bb8071514d490b8012cf420e3f0fc1</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_134851_benford_belford_scale_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_134851_benford_belford_scale_null">4edfd91f2fa79010aa9eb6a62799b622</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-04 16:46:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

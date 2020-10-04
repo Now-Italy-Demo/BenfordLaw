@@ -104,16 +104,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-10-04 16:11:48</sys_created_on>
         <sys_id>98a0a55f2fa79010aa9eb6a62799b611</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Belford's Law Scale</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Benford's Law Scale</sys_name>
         <sys_package display_value="Benford's Law" source="x_134851_benford">3d654d572f679010aa9eb6a62799b693</sys_package>
         <sys_policy/>
         <sys_scope display_value="Benford's Law">3d654d572f679010aa9eb6a62799b693</sys_scope>
         <sys_update_name>sys_report_98a0a55f2fa79010aa9eb6a62799b611</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-04 16:11:53</sys_updated_on>
-        <table>x_134851_benford_belford_scale</table>
-        <title>Belford's Law Scale</title>
+        <sys_updated_on>2020-10-04 16:46:18</sys_updated_on>
+        <table>x_134851_benford_benford_scale</table>
+        <title>Benford's Law Scale</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>

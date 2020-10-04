@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id/>
-        <report_id display_value="Belford's Law Scale">98a0a55f2fa79010aa9eb6a62799b611</report_id>
+        <report_id display_value="Benford's Law Scale">98a0a55f2fa79010aa9eb6a62799b611</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-10-04 16:11:48</sys_created_on>

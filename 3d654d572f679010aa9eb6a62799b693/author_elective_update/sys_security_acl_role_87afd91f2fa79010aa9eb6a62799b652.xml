@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-04 16:07:37</sys_created_on>
+        <sys_id>87afd91f2fa79010aa9eb6a62799b652</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_134851_benford_belford_scale.x_134851_benford.belford_scale_user</sys_name>
+        <sys_package display_value="Benford's Law" source="x_134851_benford">3d654d572f679010aa9eb6a62799b693</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Benford's Law">3d654d572f679010aa9eb6a62799b693</sys_scope>
+        <sys_security_acl display_value="x_134851_benford_belford_scale">47afd91f2fa79010aa9eb6a62799b64f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_87afd91f2fa79010aa9eb6a62799b652</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-04 16:07:37</sys_updated_on>
+        <sys_user_role display_value="x_134851_benford.belford_scale_user" name="x_134851_benford.belford_scale_user">47af59db2fa79010aa9eb6a62799b6da</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Benford's Law">3d654d572f679010aa9eb6a62799b693</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_security_acl_role_87afd91f2fa79010aa9eb6a62799b652</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-04 16:07:37</sys_created_on><sys_id>87afd91f2fa79010aa9eb6a62799b652</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_134851_benford_belford_scale.x_134851_benford.belford_scale_user</sys_name><sys_package display_value="Benford's Law" source="x_134851_benford">3d654d572f679010aa9eb6a62799b693</sys_package><sys_policy/><sys_scope display_value="Benford's Law">3d654d572f679010aa9eb6a62799b693</sys_scope><sys_security_acl display_value="x_134851_benford_belford_scale">47afd91f2fa79010aa9eb6a62799b64f</sys_security_acl><sys_update_name>sys_security_acl_role_87afd91f2fa79010aa9eb6a62799b652</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-04 16:07:37</sys_updated_on><sys_user_role display_value="x_134851_benford.belford_scale_user" name="x_134851_benford.belford_scale_user">47af59db2fa79010aa9eb6a62799b6da</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1860391615</payload_hash>
+        <record_name>x_134851_benford_belford_scale.x_134851_benford.belford_scale_user</record_name>
+        <reverted_from/>
+        <source>bd654d572f679010aa9eb6a62799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-04 16:07:37</sys_created_on>
+        <sys_id>cfafd91f2fa79010aa9eb6a62799b654</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174f45e584b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-04 16:07:37</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>0bafd91f5aa79010bd9518290cbc1f54</update_guid>
+        <update_guid_history>0bafd91f5aa79010bd9518290cbc1f54:1860391615</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_134851_benford_belford_scale.x_134851_benford.belford_scale_user">ed9861d32fe79010aa9eb6a62799b6d7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-04 16:46:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>087e2a1692494bcf813cd678cf0672d1</sys_id>
+        <sys_metadata>87afd91f2fa79010aa9eb6a62799b652</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_134851_benford_belford_scale.x_134851_benford.belford_scale_user</sys_name>
+        <sys_package display_value="Benford's Law" source="x_134851_benford">3d654d572f679010aa9eb6a62799b693</sys_package>
+        <sys_parent display_value="">47afd91f2fa79010aa9eb6a62799b64f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Benford's Law">3d654d572f679010aa9eb6a62799b693</sys_scope>
+        <sys_scope_delete display_value="">03bb8071514d490b8012cf420e3f0fc1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_87afd91f2fa79010aa9eb6a62799b652</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_87afd91f2fa79010aa9eb6a62799b652">cfafd91f2fa79010aa9eb6a62799b654</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-04 16:46:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

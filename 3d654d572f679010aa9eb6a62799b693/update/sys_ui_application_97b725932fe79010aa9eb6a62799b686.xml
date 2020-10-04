@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Benford's Law</name>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-04 16:42:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>97b725932fe79010aa9eb6a62799b686</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Benford's Law</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Benford's Law" source="x_134851_benford">3d654d572f679010aa9eb6a62799b693</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Benford's Law">3d654d572f679010aa9eb6a62799b693</sys_scope>
+        <sys_update_name>sys_ui_application_97b725932fe79010aa9eb6a62799b686</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-04 16:42:51</sys_updated_on>
+    </sys_ui_application>
+</record_update>
