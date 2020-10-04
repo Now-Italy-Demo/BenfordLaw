@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Analysis Detail" max_length="40" name="x_134851_benford_analysis_detail" type="collection">
+        <element label="Analysis" max_length="32" name="analysis" reference="x_134851_benford_analysis" type="reference"/>
+        <element default="0" label="Count" max_length="40" name="count" type="integer"/>
+        <element label="Leading Digit" max_length="40" name="leading_digit" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="0" label="Percentage" max_length="20" name="percentage" type="decimal"/>
+        <index name="index">
+            <element name="analysis"/>
+        </index>
+    </element>
+</database>

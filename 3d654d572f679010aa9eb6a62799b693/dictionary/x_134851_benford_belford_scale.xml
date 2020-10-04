@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Belford Scale" max_length="40" name="x_134851_benford_belford_scale" type="collection">
+        <element label="Leading Digit" max_length="40" name="leading_digit" type="integer"/>
+        <element label="Probability" max_length="20" name="probability" type="decimal"/>
+    </element>
+</database>

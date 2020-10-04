@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Data" max_length="40" name="x_134851_benford_data" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Data Description" max_length="1000" name="data_description" type="string"/>
+        <element label="Data Set" max_length="32" name="data_set" reference="x_134851_benford_data_set" type="reference"/>
+        <element label="Data Value" max_length="15" name="data_value" type="decimal"/>
+        <element label="Data Value String" max_length="400" name="data_value_string" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="data_set"/>
+        </index>
+    </element>
+</database>

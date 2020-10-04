@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="data_value_string" label="Data Value String" language="en" table="x_134851_benford_data">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>data_value_string</element>
+            <help/>
+            <hint/>
+            <label>Data Value String</label>
+            <language>en</language>
+            <name>x_134851_benford_data</name>
+            <plural>Data Value Strings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-04 15:14:53</sys_created_on>
+            <sys_id>ea935d532fa79010aa9eb6a62799b690</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Data Value String</sys_name>
+            <sys_package display_value="Benford's Law" source="x_134851_benford">3d654d572f679010aa9eb6a62799b693</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Benford's Law">3d654d572f679010aa9eb6a62799b693</sys_scope>
+            <sys_update_name>sys_documentation_x_134851_benford_data_data_value_string_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-04 15:14:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

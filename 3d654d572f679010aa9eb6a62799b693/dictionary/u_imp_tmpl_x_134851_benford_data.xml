@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 134851 Benford Data" max_length="40" name="u_imp_tmpl_x_134851_benford_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Data Description" label="Data Description" max_length="1000" name="u_data_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Data Set" label="Data Set" max_length="32" name="u_data_set" type="string"/>
+        <element attributes="import_attribute_name=Data Value" label="Data Value" max_length="15" name="u_data_value" type="decimal"/>
+    </element>
+</database>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Analysis" max_length="40" name="x_134851_benford_analysis" type="collection">
+        <element label="Data Set" max_length="32" name="data_set" reference="x_134851_benford_data_set" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="data_set"/>
+        </index>
+    </element>
+</database>
